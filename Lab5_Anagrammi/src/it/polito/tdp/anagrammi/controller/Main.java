@@ -1,4 +1,4 @@
-package it.polito.tdp.anagrammi;
+package it.polito.tdp.anagrammi.controller;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
